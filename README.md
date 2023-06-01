@@ -1,38 +1,16 @@
-# create-svelte
+# vitekWeb-svelte aka. vitekWeb 2.0
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+prostě můj web co na to říct....
 
-## Creating a project
+## Proč jej dělám znovu?
 
-If you're seeing this, you've probably already done this step. Congrats!
+Učil jsem se development v next.js, bohužel, ten byl teď celý překopán a já s těmito změnami nesouhlasím, proto jsem si řekl že je čas se posunout dál, a svelte byl první JS Framework, po kterém jsem sáhnul. Berte toto jako tkaový update '2.0', můj development bude tedy soustředěn na tento web.
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+## Kde bude web dostupný?
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+Až trochu začnu a stránka bude trochu vypadat, bude stránku možné navštívit na `dev.smoliicek.tk`, vedle mé existující, production stránky, která je dostupná na `smoliicek.tk`.
 
-## Developing
+### Trocha slov na závěr
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+Doufám že se vám nový web bude líbit. Budu rád za feedback, přece jen tohle je můj první projekt ve svelte.
+Rád přijmu jakoukoli kritiku a budu za ní rád. Moje kontaktní informace najdete v mém README.md na profilu, nebo na https://smoliicek.tk/info.txt
